@@ -1,24 +1,41 @@
-# README
+# Baremetal Form
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Purpose
 
-Things you may want to cover:
+> This is a project done with the aim of understanding how to create forms in rails.
 
-* Ruby version
+> Models Created and Associations
+  User model 
+ 
+### Getting Started
 
-* System dependencies
+- Get a local copy of this repo
+  Open a terminal and run:```git clone git@github.com:OlawaleJoseph/baremetal-form.git```
+- Open a terminal and run ```bunle install```
+- Run ```yarn install --check-files```
+- Run ```rails db:migrate```
+- Run ```rails s```
+- Open a browser and visit ```localhost:3000/users/new``` to create a new user
+- Open a browser and visit ```localhost:3000/users/:id/edit``` to update a user
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## Contributor
 
-* How to run the test suite
+👤 **James Kiptubei**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@kiptubei](https://github.com/kiptubei)
+- Linkedin: [james-kiptubei](https://www.linkedin.com/in/mark-james-k-aa875829/)
 
-* Deployment instructions
+👤 **Adedeko Olawale**
 
-* ...
+- Github: [@OlawaleJoseph](https://github.com/OlawaleJoseph)
+- Twitter: [@javanode123](https://twitter.com/javanode123)
+- Linkedin: [olawale-adedeko](http://www.linkedin.com/in/olawale-adedeko)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/OlawaleJoseph/telebot/issues).
+
+## Show your support
