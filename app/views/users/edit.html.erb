@@ -1,5 +1,7 @@
 
 <h1> Sign Up </h1>
+<% if flash[:notice] %> <div class='notice'><%= flash[:notice] %></div> <% end %>
+
 
 <%# <form action="/users" method="post" accept-charset="UTF-8"> %>
   <%# <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token ">%>
